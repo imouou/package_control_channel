@@ -1213,6 +1213,17 @@
 			]
 		},
 		{
+			"name": "BUI Fast Sinppets",
+			"details": "https://github.com/imouou/BUI-Fast-Snippets",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Build Ant Target",
 			"details": "https://github.com/ryanhefner/BuildAntTarget",
 			"labels": ["ant", "build system"],
